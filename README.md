@@ -29,3 +29,11 @@ Community Engagement: ➢ Create forums and discussion groups where users can ta
 Interactive Mood Board: ➢ Provide a digital mood board where users can mix and match items to create their desired look. Include a feature to save and share mood boards on social media or within the app community. 
 AI-Powered Chatbots: ➢ Integrate chatbots that offer style advice, assist with product searches, and provide customer support.
 
+![image](https://github.com/user-attachments/assets/5536fecf-4e34-48cd-97b6-403b3352f66d)
+
+![Screenshot 2024-07-15 123517](https://github.com/user-attachments/assets/de752e3e-3249-4431-97d6-dcf7be3990a6)
+
+check it out! https://dressuppage.netlify.app/
+
+
+
