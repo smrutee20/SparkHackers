@@ -33,6 +33,17 @@ AI-Powered Chatbots: ➢ Integrate chatbots that offer style advice, assist with
 
 ![Screenshot 2024-07-15 123517](https://github.com/user-attachments/assets/de752e3e-3249-4431-97d6-dcf7be3990a6)
 
+### 2.Movie-Inspired Fashion Recommendation -> Bridging Cinematic Style Inspiration to Access
+![smru](https://github.com/user-attachments/assets/1b740df7-7098-44b9-9e2a-f069dcb755db)
+
+Undoubtedly! Gen Z always wants to embody characters from movie/ series that resonate with them the most. How about having a platform where you can shop based on trending movie/series, discovering outfits and merchandise inspired by your favorite movies? 
+Browse outfits inspired by your favorite movies. Whether it’s from  Marvel Studios, look of Wednesday Addams or outfits like Barbie we’ll got you covered all!
+ AI analyzes popular movies, identifies key fashion items and accessories, and matches them with our products. Recreate iconic looks effortlessly. Complete your movie-inspired outfit with matching accessories. AI suggests the perfect bags, shoes, and jewelry, plus merchandise to match your fandom.
+ 
+
+![image](https://github.com/user-attachments/assets/82ed244e-0668-4ea9-87a2-5d7400edfbaa)
+
+
 
 
 
