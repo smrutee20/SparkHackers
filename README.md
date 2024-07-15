@@ -10,3 +10,5 @@ In today's fast-paced digital age, Gen-Z is constantly inspired by the styles an
 
 ### 3.Gen-Z Expectations from Today's E-commerce Recommendations 
 Traditional fashion retail struggles with delivering personalized shopping experiences that align with rapidly changing trends and individual customer preferences. Many fashion e-commerce platforms today use basic recommendation algorithms that rely solely on historical purchase data or general trends. This approach often misses customers' current preferences and fails to capture the latest fashion trends or style changes from social media, resulting in a less personalized shopping experience.
+
+![Myntra HackerRamp](https://github.com/user-attachments/assets/76d2f671-3344-4cc5-9ff6-ecaf35307c87)
