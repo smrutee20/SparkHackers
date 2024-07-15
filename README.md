@@ -13,9 +13,9 @@ Traditional fashion retail struggles with delivering personalized shopping exper
 
 ![Myntra HackerRamp](https://github.com/user-attachments/assets/76d2f671-3344-4cc5-9ff6-ecaf35307c87)
 
-##Solution
+## Solution
 
-###1.Shop by Aesthetic- Identifying what Gen-Z wants
+### 1.Shop by Aesthetic-> Identifying what Gen-Z wants
 ![shai](https://github.com/user-attachments/assets/f2e92a7d-fca5-46f5-950e-969a691b2129)
 
 What if we provide a section ‘Shop by Aesthetic’ that helps you shop your desired look.
