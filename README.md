@@ -41,7 +41,13 @@ Browse outfits inspired by your favorite movies. Whether it’s from  Marvel St
  AI analyzes popular movies, identifies key fashion items and accessories, and matches them with our products. Recreate iconic looks effortlessly. Complete your movie-inspired outfit with matching accessories. AI suggests the perfect bags, shoes, and jewelry, plus merchandise to match your fandom.
  
 
+![image](https://github.com/user-attachments/assets/0b090122-f742-4b7d-b5bd-56182483ea99)
+
 ![image](https://github.com/user-attachments/assets/82ed244e-0668-4ea9-87a2-5d7400edfbaa)
+
+
+
+
 
 
 
