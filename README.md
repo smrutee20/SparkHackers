@@ -33,7 +33,6 @@ AI-Powered Chatbots: ➢ Integrate chatbots that offer style advice, assist with
 
 ![Screenshot 2024-07-15 123517](https://github.com/user-attachments/assets/de752e3e-3249-4431-97d6-dcf7be3990a6)
 
-check it out! https://dressuppage.netlify.app/
 
 
 
