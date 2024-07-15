@@ -38,6 +38,7 @@ AI-Powered Chatbots: ➢ Integrate chatbots that offer style advice, assist with
 
 Undoubtedly! Gen Z always wants to embody characters from movie/ series that resonate with them the most. How about having a platform where you can shop based on trending movie/series, discovering outfits and merchandise inspired by your favorite movies? 
 Browse outfits inspired by your favorite movies. Whether it’s from  Marvel Studios, look of Wednesday Addams or outfits like Barbie we’ll got you covered all!
+
  AI analyzes popular movies, identifies key fashion items and accessories, and matches them with our products. Recreate iconic looks effortlessly. Complete your movie-inspired outfit with matching accessories. AI suggests the perfect bags, shoes, and jewelry, plus merchandise to match your fandom.
  
 
@@ -45,6 +46,19 @@ Browse outfits inspired by your favorite movies. Whether it’s from  Marvel St
 
 
 ![image](https://github.com/user-attachments/assets/82ed244e-0668-4ea9-87a2-5d7400edfbaa)
+
+### 3.AI Avatar Integration -> Gen-Z Expectations from Today's E-commerce Recommendations 
+
+![anaa](https://github.com/user-attachments/assets/b28852a8-4d85-49d5-9ddb-19a64ff63222)
+
+Now-a-days wants to have personalized items that align with current trends. Our idea aims to deliver personalization to the fashion industry, integrating avatars for a visual and interactive user experience.
+
+AI-driven fashion systems leverage advanced machine learning to deliver personalized, trend-based insights. Avatar integration enables customers to create digital models, Visualizing outfits and seeing how the clothes look on them.
+
+
+![image](https://github.com/user-attachments/assets/1f67b0c5-ad76-48f4-9cdf-0effee58889e)
+
+![image](https://github.com/user-attachments/assets/0de09def-be1d-42b8-b0af-6309ab9ac384)
 
 
 
