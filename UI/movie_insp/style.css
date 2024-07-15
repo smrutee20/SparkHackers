@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; /* Added this line to stack the heading and drag-area vertically */
+  min-height: 100vh;
+  background: rgb(245, 192, 196);
+}
+
+h1{
+  margin-bottom: 20px; /* Added this line to provide spacing between heading and drag-area */
+  color: #373232; /* Adjust this to match your design */
+}
+
+.drag-area{
+  border: 2px dashed #fff;
+  height: 500px;
+  width: 700px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  flex-direction: column;
+}
+
+.drag-area.active{
+  border: 2px solid #fff;
+}
+
+.drag-area .icon{
+  font-size: 100px;
+  color: #fff;
+}
+
+.drag-area header{
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.drag-area span{
+  font-size: 25px;
+  font-weight: 500;
+  color: #fff;
+  margin: 10px 0 15px 0;
+}
+
+.drag-area button{
+  padding: 10px 25px;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  background: #fff;
+  color: black;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.drag-area img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+}
