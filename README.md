@@ -1,6 +1,6 @@
 # SparkHackers
 
-This is the submission for Myntra HackerRamp: WeForShe 2024 prefinal round.
+Team *SparkHackers* Myntra HackerRamp: WeForShe 2024 prefinal round.
 
 ## Problem Statement
 ![image](https://github.com/user-attachments/assets/0d50715a-47cb-4e53-9ae0-09556bf1da5a)
@@ -64,7 +64,11 @@ AI-driven fashion systems leverage advanced machine learning to deliver personal
 ![image](https://github.com/user-attachments/assets/0de09def-be1d-42b8-b0af-6309ab9ac384)
 
 
+## Contributors
 
+- [@SmruteeBehera](https://github.com/smrutee20)
+- [@ShainiMohanty](https://github.com/Shaini18)
+- [@AnanyaSrivastava](https://github.com/Ananya0902)
 
 
 
